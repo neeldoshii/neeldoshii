@@ -6,7 +6,6 @@ Android & iOS Developer
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [(Currently Design Portfolio)](http://https://neeldoshi.webflow.io/)
-* ✉️  You can contact me at [neeldoshi147@gmail.com](mailto:neeldoshi147@gmail.com)
 * 🧠  I'm learning Competitive Coding, DSA, Java, Swift,
 
 ### Skills
