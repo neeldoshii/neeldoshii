@@ -1,7 +1,7 @@
 Hi 👋 My name is Neel Doshi
 ===========================
 
-Android & iOS Developer
+### Select * from WORLD where SOMEONE like YOU
 -----------------------
 
 * 🌍  I'm based in India
