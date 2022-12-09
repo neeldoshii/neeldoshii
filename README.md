@@ -5,7 +5,7 @@ Hi 👋 My name is Neel Doshi
 -----------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [(Currently Design Portfolio)](http://https://neeldoshi.webflow.io/)
+* 🖥️  See my portfolio at [(Currently Design Portfolio)](https://neeldoshi.webflow.io/)
 * 🧠  I'm learning Competitive Coding, DSA, Java, Swift,
 
 ### Skills
