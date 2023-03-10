@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: ![](https://cdn.discordapp.com/attachments/1030898960459636786/1035070079513137162/hi_1_1_1.gif)
 🌱 I’m currently learning Android Development using Kotlin<br>👯 I’m looking to collaborate on   Projects, Tech Articles, Mentoring, Open Source.<br>💬  Talk to me about Open Source, UI UX, Freelancing or How to submit assignments at the last second :D because thats what we developers do<br>
 
 
