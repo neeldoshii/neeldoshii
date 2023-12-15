@@ -1,5 +1,5 @@
 # 💫 About Me: ![](https://cdn.discordapp.com/attachments/1030898960459636786/1035070079513137162/hi_1_1_1.gif)
-🌱 I’m currently learning Android Development using Kotlin<br>👯 I’m looking to collaborate on   Projects, Tech Articles, Mentoring, Open Source.<br>💬  Talk to me about Open Source, UI UX, Freelancing or How to submit assignments at the last second :D because thats what we developers do<br>
+🌱 I’m currently learning Android Development using Kotlin & Flutter<br>👯 I’m looking to collaborate on   Projects, Tech Articles, Mentoring, Open Source.<br>💬  Talk to me about Open Source, UI UX, Freelancing or How to submit assignments at the last second :D because thats what we developers do<br>
 
 
 ## 🌐 Socials:
@@ -16,10 +16,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neeldoshii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
